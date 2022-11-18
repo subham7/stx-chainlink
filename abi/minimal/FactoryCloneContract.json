@@ -1,0 +1,13 @@
+[
+  "constructor(address)",
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "function ImplementationAddress() view returns (address)",
+  "function USDCAddress() view returns (address)",
+  "function changeDAOImplementation(address)",
+  "function changeUSDCAddress(address)",
+  "function createDAO(tuple(string,string,uint256,uint256,uint256,uint256,uint256,bool,uint256,uint256,address,address[])) returns (address)",
+  "function emitterAddress() view returns (address)",
+  "function owner() view returns (address)",
+  "function renounceOwnership()",
+  "function transferOwnership(address)"
+]
